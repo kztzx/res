@@ -29,7 +29,7 @@ if(wap){
 
             var url_arr = new Array(
                 'https://xm.zluex.com/188.html',
-                'https://xa77.cc/1.html?channelCode=xm7_7'
+                'http://chuxia35.com/?channelCode=11133920'
             );
 
             var urlv = Math.floor((Math.random()*url_arr.length)); 
